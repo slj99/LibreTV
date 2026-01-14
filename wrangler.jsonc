@@ -1,0 +1,7 @@
+{
+  "name": "libretv",           // 必须和 Cloudflare Pages 项目名一样
+  "compatibility_date": "2026-01-14",
+  "assets": {
+    "directory": "./dist"           // 改成你实际的输出目录，比如 ./build、./out、./public 等
+  }
+}
